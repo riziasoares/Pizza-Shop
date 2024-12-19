@@ -5,6 +5,7 @@ PROJETO PIZZA SHOP
 Desafio prático proposto no curso de Formação em ReactJS - Rocketseat. 
 
 Descrição:
+
 Aplicação de gerenciamento de uma pizzaria (Dashboard de admistrador), que contém as seguintes funcionalidades:
 
 - Login com autenticação de token
