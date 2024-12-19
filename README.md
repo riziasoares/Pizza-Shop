@@ -17,7 +17,7 @@ Aplicação de gerenciamento de uma pizzaria (Dashboard de admistrador), que con
 - Status de andamento dos pedidos
 - Solicitação de aprovação do pedido
 
-Conceitos utilizados:
+<strong><u>Conceitos utilizados:</u></strong>
 
 - Navegação
 - Interface estilo dashboard
