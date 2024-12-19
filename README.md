@@ -1,10 +1,10 @@
 ![image](https://github.com/user-attachments/assets/fb55c06f-dbb6-4555-a93b-dcca0bace3ca)
 
-<strong><u>PROJETO PIZZA SHOP</u></strong>
+<strong><u>PROJETO PIZZA SHOP</u></strong>🍕
 
 Desafio prático proposto no curso de Formação em ReactJS - Rocketseat. 
 
-Descrição:
+<strong><u>Descrição:</u></strong>
 
 Aplicação de gerenciamento de uma pizzaria (Dashboard de admistrador), que contém as seguintes funcionalidades:
 
