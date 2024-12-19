@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/fb55c06f-dbb6-4555-a93b-dcca0bace3ca)
 
-PROJETO PIZZA SHOP
+<u>PROJETO PIZZA SHOP</u>
 
 Desafio prático proposto no curso de Formação em ReactJS - Rocketseat. 
 
