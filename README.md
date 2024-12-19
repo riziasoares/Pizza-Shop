@@ -1,4 +1,7 @@
 ![image](https://github.com/user-attachments/assets/fb55c06f-dbb6-4555-a93b-dcca0bace3ca)
+![image](https://github.com/user-attachments/assets/be5ba700-5883-4d28-b176-74d485fb4374)
+![image](https://github.com/user-attachments/assets/a1f93639-d012-42bc-b809-fb578ea68bc7)
+
 
 <strong><u>PROJETO PIZZA SHOP</u></strong>🍕
 
